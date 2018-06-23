@@ -1,0 +1,13 @@
+{
+    "short_name":"SweetShop",
+    "name" : "Sweet Shop",
+    "icons" : [{
+        "src":"/resources/images/sweetshopicon-256x256.png",
+        "type":"image/png",
+        "sizes":"256x256"
+    }],
+    "start_url":"/index.html",
+    "display":"standalone",
+    "scope":"/",
+    "theme_color":"#B21515"
+}
